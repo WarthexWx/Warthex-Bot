@@ -1,0 +1,16 @@
+{
+  "name": "warthex-bot",
+  "version": "2.0.0",
+  "description": "Bot Bedrock simples para manter o Obsidian Orb online no Falix",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.60.1",
+    "dotenv": "^16.4.5"
+  }
+}
